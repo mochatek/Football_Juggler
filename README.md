@@ -10,4 +10,4 @@ Game ends when ball touches the ground.
 
 **Requirements :** [VB6 (Windows)](https://www.microsoft.com/en-us/download/details.aspx?id=5721)
 ---
-**More project available at :** [https://github.com/mochatek](https://github.com/mochatek)
+**More projects available at :** [https://github.com/mochatek](https://github.com/mochatek)
