@@ -12,6 +12,6 @@
 ---
 
 ### Screenshots :
-![screenshot 1]([screenshot 1](https://github.com/mochatek/Football_Juggler/blob/master/Screenshot.PNG))
+![screenshot 1](https://github.com/mochatek/Football_Juggler/blob/master/Screenshot.png)
 
 **More projects available at :** [https://github.com/mochatek](https://github.com/mochatek)
